@@ -1,0 +1,10 @@
+.img-section{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+   
+}
+#w-city-image{
+    max-width:300px;
+}
